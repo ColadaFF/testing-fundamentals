@@ -1,0 +1,14 @@
+{
+  "name": "01-testing-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assertion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
